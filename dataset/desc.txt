@@ -1,0 +1,17 @@
+MEMBROS DO GRUPO:
+Joaquim Rafael Mariano Prieto Pereira - 10408805
+Henrique Arabe Neres de Farias - 10410152
+Gustavo Matta - 10410154
+Lucas Trebacchetti Eiras - 10401973
+
+Nossa base dados consiste em 3 conjuntos de ações para negociações em pares, cada conjunto tem o valor negociado das duas ações repeditamente a cada minuto. Os ativos em cada um dos dois conjuntos são correlacionados, propícios para o uso da estratégia de pair trading, além de serem ativos extremamente consolidados e com comportamentos de natureza menos volátil, o que ajuda na obtenção de resultados mais fiéis a realidade. As conjutos de ações são BBDC3 e BBDC4, ITAU4 e ITAU3 e PETR4 e PETR3. O dataset foi obtido através do professor Eli Haddad, que teve acesso a essas informações na B3, portanto trataremos de dados reais para este trabalho. Os dados já estão devidamente tratados/estruturados em csv, formatação:
+mask,itau4,itau3
+2022 01 03 10 09 00.000,21.219999,19.280001
+2022 01 03 10 10 00.000,21.309999,19.370001
+2022 01 03 10 11 00.000,21.33,19.35
+2022 01 03 10 12 00.000,21.309999,19.34
+2022 01 03 10 13 00.000,21.4,19.4
+2022 01 03 10 14 00.000,21.450001,19.440001
+2022 01 03 10 15 00.000,21.440001,19.440001
+2022 01 03 10 16 00.000,21.620001,19.559999
+2022 01 03 10 17 00.000,21.639999,19.57
