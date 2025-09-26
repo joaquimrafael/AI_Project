@@ -1,10 +1,10 @@
 # Aprendizado de máquina no aprimoramento da negociação de pares
 
 Desenvolvido por
-# Joaquim Rafael Mariano Prieto Pereira - 10408805
-# Henrique Arabe Neres de Farias - 10410152
-# Gustavo Matta - 10410154
-# Lucas Trebacchetti Eiras - 10401973
+* Joaquim Rafael Mariano Prieto Pereira - 10408805
+* Henrique Arabe Neres de Farias - 10410152
+* Gustavo Matta - 10410154
+* Lucas Trebacchetti Eiras - 10401973
 
 ## Sobre o Projeto
 
