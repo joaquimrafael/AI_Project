@@ -25,3 +25,11 @@ Em seguida, execute o script Python no terminal:
 
 ```bash
 python eda_script.py
+
+Para rodar o código final de ML (contido na pasta ml_pairs_trading) execute o comando:
+```bash
+python run_trading_strategy.py --sl --sl_model (modelo de ML) --data_path dataset/(nome_do_dataset).csv  --n_epochs 3
+
+Para executar os plots de comparação após rodar os modelos:
+```bash
+python comparison.py --dataset (nome_do_dataset) --base_dir ./
